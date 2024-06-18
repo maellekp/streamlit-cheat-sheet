@@ -27,7 +27,7 @@ import base64
 # Initial page config
 
 st.set_page_config(
-     page_title='Coucou Mamene I'm a hacker',
+     page_title='Coucou Mamene I am a hacker',
      layout="wide",
      initial_sidebar_state="expanded",
 )
